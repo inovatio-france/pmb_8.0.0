@@ -1,0 +1,5 @@
+<h2>Intelligence Artificielle</h2>
+</p><p>
+Gestion de l'IA dans PMB.
+</p>
+<p><b>Recherche sémantique</b> : Pour de la recherche semantique.</p>
